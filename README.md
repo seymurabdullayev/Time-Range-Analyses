@@ -35,5 +35,10 @@ The dashboard is designed not only for a specific industry but for any business 
 ## Project Benefits
 The dashboard is designed for a wide audience, not just a specific group. It enables users to analyze operations over time, track overall sales, view quarterly transactions, break down sales by subcategories, and identify top-performing days.
 
-## Portfolio/GitHub Note
+## GitHub Note
 This project was created and shared to showcase Power BI technical skills and demonstrate progress in data visualization and business intelligence.
+
+## Dashboards
+![Time Range Analyses](https://github.com/seymurabdullayev/Time-Range-Analyses/blob/0a1f0717b59552022383eed798fa5c5cccbf5401/Time%20Range%20Analyses%20.png)
+
+![Location anlyses](https://github.com/seymurabdullayev/Time-Range-Analyses/blob/0a1f0717b59552022383eed798fa5c5cccbf5401/Location%20analyses%20.png)
